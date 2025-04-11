@@ -1,7 +1,9 @@
 # Oii, eu sou o Samuel! 👋🏽
 
 <p align="center">
-  <img src="![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)" alt="Python" width="600"/>
+  <a href="https://www.python.org/">
+    <img src="https://img.shields.io/badge/Python-3.11-blue.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
+  </a>
 </p>
 
 💻 Programador em formação | Apaixonado por IA e tecnologia  
