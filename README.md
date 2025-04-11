@@ -1,16 +1,19 @@
-## Hi there 👋
+# Oii, eu sou o Samuel! 👋🏽
 
-<!--
-**ArgoniteStorm/ArgoniteStorm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Programador em formação | Apaixonado por IA e tecnologia  
+🏋🏽 Em busca da melhor versão de mim: física, mental e espiritual    
+📚 Estudando: Python, Inteligência Artificial e mais!  
+🎯 Objetivo: viver bem, trabalhar com programação e conquistar minha autonômia
 
-Here are some ideas to get you started:
+## 🚀 Tecnologias que estou estudando:
+- Python 🐍
+- HTML + CSS + JavaScript
+- Git & GitHub
+- Inteligência Artificial (Machine Learning com Python)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📈 Status GitHub
+![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArgoniteStorm&show_icons=true&theme=radical)
+
+## 📫 Como falar comigo:
+- [Instagram](https://instagram.com/sammypythonangel)
+- [LinkedIn](https://linkedin.com/in/samuel-de-paula-494b36302/)
