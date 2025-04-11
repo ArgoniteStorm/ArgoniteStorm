@@ -1,5 +1,9 @@
 # Oii, eu sou o Samuel! 👋🏽
 
+<p align="center">
+  <img src="![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python&logoColor=white)" alt="Python" width="600"/>
+</p>
+
 💻 Programador em formação | Apaixonado por IA e tecnologia  
 🏋🏽 Em busca da melhor versão de mim: física, mental e espiritual    
 📚 Estudando: Python, Inteligência Artificial e mais!  
