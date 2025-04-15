@@ -6,19 +6,19 @@
   </a>
 </p>
 
-<h3>💻 Programador em formação | Apaixonado por IA e tecnologia
-🏋🏽 Em busca da melhor versão de mim: física, mental e espiritual    
-📚 Estudando: Python, Inteligência Artificial e mais!
-👨‍🎓 Cursando: Análise e Desenvolvimento de Sistemas
-🎯 Objetivo: viver bem, trabalhar com programação e conquistar minha autonômia
-</h3>
+💻 Programador em formação | Apaixonado por IA e tecnologia
+  🏋🏽 Em busca da melhor versão de mim: física, mental e espiritual    
+    📚 Estudando: Python, Inteligência Artificial e mais!
+      👨‍🎓 Cursando: Análise e Desenvolvimento de Sistemas
+        🎯 Objetivo: viver bem, trabalhar com programação e conquistar minha autonômia
+
 
 ## 🚀 Tecnologias que estou estudando:
-<h3>- Python 🐍
+- Python 🐍
 - HTML + CSS + JavaScript
 - Git & GitHub
 - Inteligência Artificial (Machine Learning com Python)
-</h3>
+
 ## 📈 Status GitHub
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArgoniteStorm&show_icons=true&theme=radical)
 
