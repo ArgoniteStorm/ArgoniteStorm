@@ -1,4 +1,4 @@
-# Oii, eu sou o Samuel! 👋🏽
+# Oii, eu sou o Samuel de Paula Sarmento! 👋🏽
 
 <p align="center">
   <a href="https://www.python.org/">
@@ -6,18 +6,19 @@
   </a>
 </p>
 
-💻 Programador em formação | Apaixonado por IA e tecnologia  
+<h3>💻 Programador em formação | Apaixonado por IA e tecnologia
 🏋🏽 Em busca da melhor versão de mim: física, mental e espiritual    
 📚 Estudando: Python, Inteligência Artificial e mais!
 👨‍🎓 Cursando: Análise e Desenvolvimento de Sistemas
 🎯 Objetivo: viver bem, trabalhar com programação e conquistar minha autonômia
+</h3>
 
 ## 🚀 Tecnologias que estou estudando:
-- Python 🐍
+<h3>- Python 🐍
 - HTML + CSS + JavaScript
 - Git & GitHub
 - Inteligência Artificial (Machine Learning com Python)
-
+</h3>
 ## 📈 Status GitHub
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArgoniteStorm&show_icons=true&theme=radical)
 
