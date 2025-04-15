@@ -5,7 +5,7 @@
     <img src="https://img.shields.io/badge/Python-3.11-blue.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
   </a>
 </p>
-
+## 💼 Profissionalização:
 -💻 Programador em formação | Apaixonado por IA e tecnologia
 -🏋🏽 Em busca da melhor versão de mim: física, mental e espiritual    
 -📚 Estudando: Python, Inteligência Artificial e mais!
