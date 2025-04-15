@@ -5,12 +5,13 @@
     <img src="https://img.shields.io/badge/Python-3.11-blue.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
   </a>
 </p>
-## 💼 Profissionalização:
--💻 Programador em formação | Apaixonado por IA e tecnologia
--🏋🏽 Em busca da melhor versão de mim: física, mental e espiritual    
--📚 Estudando: Python, Inteligência Artificial e mais!
--👨‍🎓 Cursando: Análise e Desenvolvimento de Sistemas
--🎯 Objetivo: viver bem, trabalhar com programação e conquistar minha autonômia
+<h2>💼 Profissionalização:</h2>
+- 💻 Programador em formação | Apaixonado por IA e tecnologia
+- 🏋🏽 Em busca da melhor versão de mim: física, mental e espiritual    
+- 📚 Estudando: Python, Inteligência Artificial e mais!
+- 👨‍🎓 Cursando: Análise e Desenvolvimento de Sistemas
+- 🎯 Objetivo: viver bem, trabalhar com programação e conquistar minha autonômia
+
 
 
 ## 🚀 Tecnologias que estou estudando:
@@ -23,5 +24,7 @@
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArgoniteStorm&show_icons=true&theme=radical)
 
 ## 📫 Como falar comigo:
+- [E-Mail](Samudeldepaulasarmento@gmail.com)
+- [Telefone](27988829483)
 - [Instagram](https://instagram.com/sammypythonangel)
 - [LinkedIn](https://linkedin.com/in/samuel-de-paula-494b36302/)
