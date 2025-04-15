@@ -24,7 +24,7 @@
 ![Samuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=ArgoniteStorm&show_icons=true&theme=radical)
 
 ## 📫 Como falar comigo:
-- [E-Mail](Samudeldepaulasarmento@gmail.com)
-- [Telefone](27988829483)
+- [E-mail] Samudeldepaulasarmento@gmail.com
+- [📱] +55 27 98882-9483
 - [Instagram](https://instagram.com/sammypythonangel)
 - [LinkedIn](https://linkedin.com/in/samuel-de-paula-494b36302/)
