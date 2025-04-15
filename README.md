@@ -6,10 +6,10 @@
   </a>
 </p>
 <h2>💼 Profissionalização:</h2>
-- 💻 Programador em formação | Apaixonado por IA e tecnologia
-- 🏋🏽 Em busca da melhor versão de mim: física, mental e espiritual    
-- 📚 Estudando: Python, Inteligência Artificial e mais!
-- 👨‍🎓 Cursando: Análise e Desenvolvimento de Sistemas
+- 💻 Programador em formação | Apaixonado por IA e tecnologia<br>
+- 🏋🏽 Em busca da melhor versão de mim: física, mental e espiritual <br>   
+- 📚 Estudando: Python, Inteligência Artificial e mais!<br>
+- 👨‍🎓 Cursando: Análise e Desenvolvimento de Sistemas<br>
 - 🎯 Objetivo: viver bem, trabalhar com programação e conquistar minha autonômia
 
 
