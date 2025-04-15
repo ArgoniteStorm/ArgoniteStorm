@@ -8,7 +8,8 @@
 
 💻 Programador em formação | Apaixonado por IA e tecnologia  
 🏋🏽 Em busca da melhor versão de mim: física, mental e espiritual    
-📚 Estudando: Python, Inteligência Artificial e mais!  
+📚 Estudando: Python, Inteligência Artificial e mais!
+👨‍🎓 Cursando: Análise e Desenvolvimento de Sistemas
 🎯 Objetivo: viver bem, trabalhar com programação e conquistar minha autonômia
 
 ## 🚀 Tecnologias que estou estudando:
