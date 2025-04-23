@@ -26,5 +26,4 @@
 ## 📫 Como falar comigo:
 - [E-mail] Samudeldepaulasarmento@gmail.com
 - [📱] +55 27 98882-9483
-- [Instagram](https://instagram.com/sammypythonangel)
 - [LinkedIn](https://linkedin.com/in/samuel-de-paula-494b36302/)
